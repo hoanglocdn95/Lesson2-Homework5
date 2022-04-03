@@ -21,7 +21,7 @@ body{
 }
 
 #main{
-  background: url(/Photo/black-goku-3.jpg) no-repeat center;
+  background: url(/Style/black-goku-3.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   width:85%;
@@ -51,7 +51,7 @@ body{
 }
 
 #banner{
-  background: url(/Photo/dragon-ball-phim-moi-7.jpg) no-repeat center;
+  background: url(/Style/dragon-ball-phim-moi-7.jpg) no-repeat center;
   height: 281px;
   width: 500px;
   position: fixed;
